@@ -23,15 +23,3 @@ Third part:
 -   Leaflet library for geolocation maps.
 
 -   Trueway-geocoding API for geolocation details such as area name, region, country etc.
-
-03.USERS
-
-1.  Admin
-
-2.  Project Leader
-
-3.  Team Leader
-
-4.  Coach
-
-5.  Teampreneur
